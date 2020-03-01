@@ -1,5 +1,5 @@
 # springsecurity
-建表语句
+#建表语句
 1
 DROP TABLE IF EXISTS `user`;
 DROP TABLE IF EXISTS `role`;
